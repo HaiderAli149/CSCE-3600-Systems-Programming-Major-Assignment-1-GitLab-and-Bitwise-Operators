@@ -1,4 +1,8 @@
+// Name: Haider Beg
+// EUID: mhb0098
 // count leading zeros in a binary number
+
+
 #include "major1.h"
 
 int count_leading_zeros(uint32_t n) {
