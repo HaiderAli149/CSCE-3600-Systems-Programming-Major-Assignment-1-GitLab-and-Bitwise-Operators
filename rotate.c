@@ -1,3 +1,6 @@
+// Name: Hasan MD Walid
+// EUID: Hw0275
+
 #include "major1.h"
 #include <stdio.h>
 
