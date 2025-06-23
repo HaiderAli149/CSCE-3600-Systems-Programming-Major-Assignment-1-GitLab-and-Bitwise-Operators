@@ -6,7 +6,7 @@
 
 int count_leading_zeros(uint32_t n);
 uint32_t endian_swap(uint32_t n);
-uint32_t rotate(uint32_t n, int k);
+uint32_t rotateRight(uint32_t n, int k);
 int parity(uint32_t n);
 
 
