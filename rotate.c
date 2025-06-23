@@ -1,4 +1,4 @@
-#include "major1.h"
+#include  "major1.h"
 #include <stdio.h>
 
 // function to print 32-bit binary representation
