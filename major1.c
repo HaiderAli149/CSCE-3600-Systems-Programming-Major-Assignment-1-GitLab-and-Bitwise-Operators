@@ -3,6 +3,7 @@
 #include "major1.h"
 
 int main() {
+    unsigned int num, rotateBits;
 
     int option;
     int rotate_amount; 
