@@ -75,3 +75,6 @@ int main() {
     }
     return 0;
 }
+
+// This program provides a menu-driven interface for performing various operations on 32-bit unsigned integers.
+// It allows the user to count leading zeros, perform endian swap, rotate-right, and check parity of a number.

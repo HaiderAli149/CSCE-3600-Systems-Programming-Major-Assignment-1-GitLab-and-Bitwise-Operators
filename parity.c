@@ -24,14 +24,3 @@ int parity(uint32_t num) {
     }
 }
 
-// int main() {
-//     unsigned int num;
-
-//     printf("Enter a 32-bit unsigned number: ");
-//     scanf("%u", &num);
-
-//     int result = parity(num);
-//     printf("Parity of %u is: %d\n", num, result);
-
-//     return 0;
-// }

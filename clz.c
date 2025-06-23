@@ -1,6 +1,6 @@
 // Name: Haider Beg
 // EUID: mhb0098
-// count leading zeros in a binary number
+// Count leading zeros in a binary number
 
 
 #include "major1.h"
