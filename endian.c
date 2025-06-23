@@ -1,4 +1,4 @@
-// Jake Moseley
+// Name: Jake Moseley
 // EUID: jmm1103
 // CSCE 3600 - Major Assignment 1
 
