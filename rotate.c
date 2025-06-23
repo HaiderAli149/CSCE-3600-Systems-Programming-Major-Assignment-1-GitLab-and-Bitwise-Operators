@@ -12,7 +12,7 @@ void printBinary(unsigned int num) {
     }
 }
 
-void rotateRight(unsigned int num, unsigned int rotateBits) {
+uint32_t rotateRight(uint32_t num, unsigned int rotateBits) {
     // Perform rotation
     unsigned int rotated = (num >> rotateBits) | (num << (32 - rotateBits));
     
