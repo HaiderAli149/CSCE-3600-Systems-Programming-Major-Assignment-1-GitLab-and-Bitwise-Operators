@@ -30,7 +30,7 @@ Each member was responsible for one of the bitwise operations. The project is br
   Determines the parity of a 32-bit unsigned integer (whether the number of 1-bits is even or odd).
 
 - **`major1.c` – Main Driver**  
-  *Implemented by: Haider Beg*  
+  *Implemented by: Haider Beg & Jake Moseley*  
   Contains the main loop and interactive menu logic to select and run each operation.
 
 - **`major1.h` – Header File**  
